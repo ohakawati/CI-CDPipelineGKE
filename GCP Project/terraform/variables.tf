@@ -1,7 +1,7 @@
 variable "project_id" {
   description = "The ID of the project"
   type        = string
-  default     = "prj-gradient-omar"
+  default     = ""
 }
 
 variable "region" {
