@@ -1,0 +1,14 @@
+{
+  "name": "index-app",
+  "version": "1.0.0",
+  "description": "A simple Node.js application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node index_test.js"
+  },
+  "author": "Omar Hakawati",
+  "license": "66degrees",
+  "dependencies": { 
+  }
+}
