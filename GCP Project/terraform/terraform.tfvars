@@ -1,2 +1,2 @@
-project_id = "prj-gradient-omar"
+project_id = ""
 region     = "us-central1"
